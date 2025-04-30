@@ -1,0 +1,20 @@
+Patient collapsed in the hospital lobby.
+Air conditioner not working properly in ICU.
+Water leaking near the emergency room.
+Fire alarm is not functioning in Block A.
+Wheelchair missing at the entrance.
+Chemical smell detected in the laboratory.
+Minor water leak reported in the restroom.
+Visitor feeling dizzy near the cafeteria.
+Elevator stuck between floors for 2 minutes.
+Security guard missing from emergency entrance.
+Patient complaining of dirty bedsheets.
+Trolley blocking the emergency exit door.
+Doctor not available at night shift in ER.
+Nurse absent from ICU duty.
+Air conditioning making loud noise in ward.
+Delay in medication delivery to patients.
+Lift door jammed temporarily on 3rd floor.
+Patient upset about missing personal items.
+Blood sample report missing from lab.
+Water bottle not available in patient room.

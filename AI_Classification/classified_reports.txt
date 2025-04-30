@@ -1,0 +1,76 @@
+Report 1: Patient collapsed in the hospital lobby.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 2: Air conditioner not working properly in ICU.
+Classification: {"IssueType": "Maintenance Issue", "Seriousness": "Medium"}
+--------------------------------------------------
+Report 3: Water leaking near the emergency room.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 4: Fire alarm is not functioning in Block A.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 5: Wheelchair missing at the entrance.
+Classification: {"IssueType": "Maintenance Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 6: Chemical smell detected in the laboratory.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Medium"}
+--------------------------------------------------
+Report 7: Minor water leak reported in the restroom.
+Classification: {"IssueType": "Maintenance Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 8: Visitor feeling dizzy near the cafeteria.
+Classification: {"IssueType": "Minor Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 9: Elevator stuck between floors for 2 minutes.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Medium"}
+--------------------------------------------------
+Report 10: Security guard missing from emergency entrance.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 11: Patient complaining of dirty bedsheets.
+Classification: {"IssueType": "Maintenance Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 12: Trolley blocking the emergency exit door.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 13: Doctor not available at night shift in ER.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 14: Nurse absent from ICU duty.
+Classification: {"IssueType": "Safety Hazard", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 15: Air conditioning making loud noise in ward.
+Classification: {"IssueType": "Maintenance Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 16: Delay in medication delivery to patients.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 17: Lift door jammed temporarily on 3rd floor.
+Classification: {"IssueType": "Maintenance Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 18: Patient upset about missing personal items.
+Classification: {"IssueType": "Minor Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 19: Blood sample report missing from lab.
+Classification: {"IssueType": "Minor Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 20: Water bottle not available in patient room.
+Classification: {"IssueType": "Minor Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 21: Patient has had a persistent fever for 3 days.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Critical"}
+--------------------------------------------------
+Report 22: Elderly visitor coughing severely in waiting area.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Medium"}
+--------------------------------------------------
+Report 23: Nurse reported patient complaining of a sharp headache.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Medium"}
+--------------------------------------------------
+Report 24: Patient experiencing mild cough and sore throat.
+Classification: {"IssueType": "Minor Issue", "Seriousness": "Low"}
+--------------------------------------------------
+Report 25: Multiple patients in ward showing signs of fever.
+Classification: {"IssueType": "Medical Emergency", "Seriousness": "Critical"}
+--------------------------------------------------
+
