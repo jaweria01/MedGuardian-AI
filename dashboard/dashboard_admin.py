@@ -109,13 +109,14 @@ def update_dashboard(selected_issue):
     open_count = status_counts.get('open', 0)
     resolved_count = status_counts.get('resolved', 0)
     escalated_count = status_counts.get('escalated', 0)
+    pending_count=status_counts.get('pending',0)
 
-    status_text = f"Open: {open_count} | Resolved: {resolved_count} | Escalated: {escalated_count}"
+    status_text = f"Open: {open_count} | Resolved: {resolved_count} | Escalated: {escalated_count} | Pending: {pending_count}"
 
     # Pie Chart
     pie_fig = px.pie(
-        names=['Open', 'Resolved', 'Escalated'],
-        values=[open_count, resolved_count, escalated_count],
+        names=['Open', 'Resolved', 'Escalated','Pending'],
+        values=[open_count, resolved_count, escalated_count,pending_count],
         title=f'Status Distribution for {selected_issue.capitalize()} Issues',
         color_discrete_sequence=px.colors.qualitative.Set3
     )
