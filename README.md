@@ -149,6 +149,10 @@ streamlit run admin_dashboard.py
 
 ---
 
+## 🚀 Live Demo
+[Click here to try the project](https://hackathon-project-hrhb.vercel.app/)
+
+---
 ## 🎯 Impact
 
 ✅ 10x faster response to emergencies  
